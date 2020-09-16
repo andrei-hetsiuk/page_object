@@ -1,4 +1,4 @@
-import self as self
+
 
 
 class BasePage:
